@@ -5,6 +5,8 @@ data<-read.table("./Data/data_fset.txt", header= T)
 attach(data)
 names(data)
 
+#editando
+
 library(mgcv)
 library(lme4)
 library(MASS)
