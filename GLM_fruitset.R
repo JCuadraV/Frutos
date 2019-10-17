@@ -6,6 +6,7 @@ attach(data)
 names(data)
 
 #editando
+#hola
 
 library(mgcv)
 library(lme4)
